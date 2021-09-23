@@ -1,0 +1,13 @@
+
+2033871
+To start vim editor, run the command: vim
+The editpr is now in command mode. To start editing the file, enter: :i[enter]
+To save: :w
+To save and exit: :wq
+To exit: :q
+To force: !(example :w! :q!)
+To copy: y
+To copy a line: yy
+To paste: p
+To cut: d
+To cut a line: dd

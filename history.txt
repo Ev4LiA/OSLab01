@@ -1,0 +1,13 @@
+    1  uname -r 
+    2  ls
+    3  cd kernelbuild/linux-5.0.5/
+    4  make nconfig 
+    5  vi .config
+    6  whoami
+    7  uname -r
+    8  echo $HOME
+    9  passwd
+   10  man echo
+   11  ps
+   12  top
+   13  history > history.txt
